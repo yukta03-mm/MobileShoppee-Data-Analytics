@@ -1,0 +1,3 @@
+step,column,before,after
+Fix city spellings,city,"['Suratt', 'Delhi', 'Ahmedbad', 'Bangalore', 'Jaipur', 'Chennai', 'Mumbai', 'Pune', 'Hydrabad', 'Kolkatta']","['Surat', 'Delhi', 'Ahmedabad', 'Bangalore', 'Jaipur', 'Chennai', 'Mumbai', 'Pune', 'Hyderabad', 'Kolkata']"
+Fill missing emails,email,311 nulls,0 nulls

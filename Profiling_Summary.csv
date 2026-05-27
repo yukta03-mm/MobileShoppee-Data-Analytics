@@ -1,0 +1,12 @@
+table,rows,columns,avg_missing_%,duplicate_rows,numeric_outliers
+Customers,6000,6,2.99,0,184
+Customers_with_names_split,6000,8,2.24,0,184
+DataDictionary,5,1,0.0,0,0
+Data_Metadata_Summary,6,7,0.0,0,4
+MobileModels,200,6,0.0,0,1
+MobileModels_Fixed,200,6,0.0,0,1
+models_avg_price_by_brand,8,2,0.0,0,0
+Offers,500,7,0.0,0,0
+Sales,40000,15,0.0,0,12007
+ShopLocations,100,4,0.0,0,0
+Stocks,8000,5,0.0,0,46

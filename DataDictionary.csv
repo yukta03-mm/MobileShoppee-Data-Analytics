@@ -1,0 +1,6 @@
+Info
+Project: Mobile Shoppee Management Data Curation
+"Sheets: Customers, MobileModels, ShopLocations, Sales, Stocks, Offers"
+"Issues: Missing values, spelling mistakes in city names, invalid values, duplicates"
+"Joins: Customers.customer_id->Sales, MobileModels.model_id->Sales/Stocks/Offers, ShopLocations.shop_id->Sales/Stocks/Offers"
+"Tasks: Data cleaning, transformation, normalization, profiling, dashboards, predictive analytics"

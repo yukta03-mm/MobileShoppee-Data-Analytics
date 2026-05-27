@@ -1,0 +1,7 @@
+dataset,rows,columns,missing_values,duplicate_rows,last_updated,file_size_kb
+Customers,6000,6,1149,0,2025-11-14,414.22
+MobileModels,200,6,0,0,2025-11-14,7.17
+ShopLocations,100,4,0,0,2025-11-14,3.32
+Sales,40000,10,3964,0,2025-11-14,3059.1
+Stocks,8000,5,414,0,2025-11-14,328.33
+Offers,500,7,0,0,2025-11-14,31.7
